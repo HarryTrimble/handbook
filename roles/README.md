@@ -25,6 +25,13 @@ You may have also seen that we have people in Tech Lead and Tech Architect roles
 - [Delivery Principal](delivery_principal.md)
 - [Head of Delivery](head_of_delivery.md)
 
+### User-Centred Design
+
+- [User Researcher](user_researcher.md)
+- [Designer](designer.md)
+- [Lead User Researcher](lead_user_researcher.md)
+- [Lead Designer](lead_designer.md)
+
 ### Operations and Finance
 
 - [Operations Coordinator](operations_coordinator.md)
